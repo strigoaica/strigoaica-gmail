@@ -1,1 +1,1 @@
-# [Strigoaica](https://github.com/stefanoschrs/strigoaica) - Gmail Strategy
+# [Strigoaica](https://github.com/strigoaica/strigoaica) - Gmail Strategy
